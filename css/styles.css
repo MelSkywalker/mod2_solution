@@ -25,7 +25,6 @@ h1{
 	min-height: 150px;
 	border: 1px solid #000;
 	background-color: #999;
-	padding: 12px;
 }
 
 .section-title-container {
@@ -51,6 +50,10 @@ h2 {
 
 .sushi h2 {
 	background-color: #E5D198;
+}
+
+p {
+	padding: 12px;
 }
 
 @media (min-width: 992px) {
